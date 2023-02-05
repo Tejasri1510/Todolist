@@ -1,0 +1,92 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+body{
+margin-top:180px;
+margin-left:300px;
+background-color:cornsilk;
+  background-size: cover;
+}
+.main_div{
+    border:solid black;
+    width:500px;
+    height:auto;
+    display:inline-block;
+    background-color: pink;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+input[type='text']{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px 120px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.mid_div{
+    border: solid black ;
+    width:450px;
+    height:auto;
+    margin-left: 20px;
+    margin-top: 25px;
+    background-color: lightblue;
+    display:inline-block;
+}
+
+.btn{
+    margin-left: 5px;
+    font-size: 15px;
+    padding: 5px 15px;
+    background-color: white; 
+    color: black; 
+    border: 2px solid  green;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.btn:hover {
+    background-color: green;
+    color: white;}
+.butt{
+    margin-top: 5px;
+    margin-left:40%;
+    background-color: white; 
+    font-size: 15px;
+    color: black; 
+    border: 2px solid #f44336;
+    padding: 3px 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor:pointer;
+}
+.butt:hover{
+    background-color: #f44336;
+    color: white;
+}
+.space{
+    margin-bottom: 20px;
+}
+.bt{
+    border:2px solid cornflowerblue ;
+    padding: 5px 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    float:right;
+    font-size:20px;
+    color: aliceblue;
+    background-color: white; 
+    color: black; 
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.bt:hover{
+    background-color: cornflowerblue;
+    color: white;
+
+}
+b{
+    margin-left:10px;
+    margin-top: 10px;
+    font-size:30px;
+   
+}
+h1{
+    margin-left: 170px;
+    text-shadow: 2px 2px 4px green;
+}
